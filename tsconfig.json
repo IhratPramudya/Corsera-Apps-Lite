@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "target": "ES2018",
+    "module": "commonjs",
+    "strict": true,
+    "lib": [
+      "esnext"
+    ],
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "dist",
+    "tests"
+  ]
+}
